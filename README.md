@@ -1,2 +1,1 @@
-# starters
-this is our hackathon project
+Convex Hull Visualizer
